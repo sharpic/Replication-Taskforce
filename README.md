@@ -2,7 +2,7 @@
 The ACM Special Interest Group Governing Board Replication Taskforce.
 
 ## Members
-- Harper, Simon (Chair)
+- Harper, Simon (Taskforce Chair)
 - Madden, Patrick (SGB Chair)
 
 ## Rationale
