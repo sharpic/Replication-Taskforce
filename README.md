@@ -2,8 +2,17 @@
 The ACM Special Interest Group Governing Board Replication Taskforce.
 
 ## Members
+- Behjat, Laleh
+- Childers, Bruce
+- Eide, Eric (SIGOPS)
+- Fursin, Grigori
+- Gil, Yolanda (SIGAI)
 - Harper, Simon (Taskforce Chair)
+- Jones, Alex K.
+- Krishnamurthic, Shriram (SIGPLAN)
+- Lin, Jimmy (SIGIR)
 - Madden, Patrick (SGB Chair)
+- McGeoch, Catherine
 
 ## Rationale
 Replication and independent verification of results are commonplace in many scientific fields.  These practices help avoid misunderstandings, provide greater confidence in reported results, and enables the detection of both unintentional error and deliberate fraud.  By comparison with fields such as physics, chemistry, and medicine, computer science is clearly lagging in this regard; replication of experiments is rare, and activities such as paper correction or retraction are virtually unheard of.
