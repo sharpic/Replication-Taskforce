@@ -32,7 +32,7 @@ The SIGs, with elected leaders representing the various research communities of 
 {>>START: Cut and Paste this Block<<}
 ## [Change to your SIG/Organisation]
 
-### Systems used
+### Systems Used
 
 ### Process Followed
 
