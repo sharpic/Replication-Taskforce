@@ -9,7 +9,7 @@ The ACM Special Interest Group Governing Board Replication Taskforce.
 - Gil, Yolanda (SIGAI)
 - Harper, Simon (Taskforce Chair)
 - Jones, Alex K.
-- Krishnamurthic, Shriram (SIGPLAN)
+- Krishnamurthi, Shriram (SIGPLAN)
 - Lin, Jimmy (SIGIR)
 - Madden, Patrick (SGB Chair)
 - McGeoch, Catherine

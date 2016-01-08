@@ -1,5 +1,5 @@
 % Replication and Independent Verification
-% Laleh Behjat, Bruce Childers, Eric Eide, Grigori Fursin, Yolanda Gil, Simon Harper, Alex K. Jones, Shriram Krishnamurthic, Jimmy Lin, Patrick Madden, and Catherine McGeoch.
+% Laleh Behjat, Bruce Childers, Eric Eide, Grigori Fursin, Yolanda Gil, Simon Harper, Alex K. Jones, Shriram Krishnamurthi, Jimmy Lin, Patrick Madden, and Catherine McGeoch.
 % 16 October 2015
 
 Replication and independent verification of results are commonplace in many scientific fields. These practices help avoid misunderstandings, provide greater confidence in reported results, and enable the detection of both unintentional error and deliberate fraud. By comparison with fields such as physics, chemistry, and medicine, computer science is clearly lagging in this regard; replication of experiments is rare, and activities such as paper correction or retraction are virtually unheard of.
