@@ -93,7 +93,7 @@ The charge of the task force was to develop proposals on how the ACM can bring c
 - Gil, Yolanda (SIGAI)
 - Harper, Simon (Taskforce Chair)
 - Jones, Alex K.
-- Krishnamurthic, Shriram (SIGPLAN)
+- Krishnamurthi, Shriram (SIGPLAN)
 - Lin, Jimmy (SIGIR)
 - Madden, Patrick (SGB Chair)
 - McGeoch, Catherine
