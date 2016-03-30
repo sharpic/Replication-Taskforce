@@ -30,6 +30,6 @@ Given the range of research topics and problems considered, there will not be a 
 
 With this in mind this group will be open to all voices across the SGB and will compose SGB members and other invited experts. The document is also intended to evolve (hence the versioning here, and the version releases) and be transparent.
 
-If you would like to make changes (after discussions) please do. Send me changes otherwise. Create changes and start discusisons via the issue tracker. Free form updates via the wiki (public).
+If you would like to make changes (after discussions) please do. Send me changes otherwise. Create changes and start discussions via the issue tracker. Free form updates via the wiki (public).
 
 
