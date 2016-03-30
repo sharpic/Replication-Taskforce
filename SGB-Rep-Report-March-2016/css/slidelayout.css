@@ -1,0 +1,234 @@
+﻿
+body { font-family: 'Droid Serif'; 	  }
+h1, h2, h3, h4 {
+  font-family: 'Yanone Kaffeesatz';
+  font-weight: normal;
+}
+
+h2 {
+  font-family: 'Yanone Kaffeesatz';
+  font-weight: normal;
+  position: absolute;
+   top: -0.25em;
+   left: 1em;
+
+}
+
+.caption {
+    font-family: 'Yanone Kaffeesatz';
+    font-weight: bold;
+	display: block;	
+	padding: 10px;
+}
+
+.av .caption:before {
+	content: "Audio Visual: ";
+}
+
+.fig .caption:before {
+	content: "Figure: ";
+}
+
+.tab .caption:before {
+	content: "Table: ";
+}
+
+
+.credit {
+    font-family: 'Yanone Kaffeesatz';
+    font-weight: bold;
+	color: lightslategray;
+}
+.credit:before {
+	content: "Credit: ";
+}
+
+.bighighlight{
+    font-family: 'Courier New';
+    font-weight: bold;
+	color: black;
+	background: yellow;
+	font-size: 2em;
+	 padding-left: 10px;
+	 padding-right: 10px;
+	 padding-top: 10px;
+	 padding-bottom: 10px;
+}
+
+.remark-code, .remark-inline-code { font-family: 'Ubuntu Mono'; }
+.inverse {
+  background: #272822;
+  color: #777872;
+  text-shadow: 0 0 20px #333;
+}
+.inverse h1, .inverse h2 , .inverse h3{
+  color: #f3f3f3;
+  line-height: 0.8em;
+}
+
+.inverse a {
+  color: #F92672;
+  text-decoration: none;
+}
+
+pre {
+  border-left: 0.4em solid #d7d7d7;
+  padding: 1em !important;
+}
+code {
+  background: transparent !important;
+}
+a {
+  color: #68218B; /*#F92672;*/
+  text-decoration: none;
+}
+.note-location {
+  float: right; top;
+  font-size: 0.9em;
+  padding-top: 0.6em;
+}
+.note-location a {
+  color: #68218B;
+  text-decoration: none;
+}
+.right {
+  float: right;
+  margin-left: 1em;
+}
+.pushdown {
+  margin-top: 12em;
+}
+.pushup {
+  margin-top: -12em;
+}
+/* Two-column layout */
+.left-column {
+  width: 50%;
+  float: left;
+  padding-top: 1em;
+}
+
+.right-image {
+  vertical-align: middle;
+  width: 50%;
+  float: right;
+  padding-top: 1em;
+}
+
+.right-column {
+  width: 50%;
+  float: right;
+  padding-top: 1em;
+}
+.credits {
+       position: absolute;
+       bottom: 0.5em;
+	 left: 1em;
+	 font-size: 0.6em;
+       color: #68218B;
+     }
+  .credits a {
+        color: #68218B;
+        text-decoration: none;
+		
+   }
+   .controls {
+          position: absolute;
+          bottom: 0.4em;
+   	 right: 8em;
+   	 font-size: 0.6em;
+          color: #68218B;
+        }
+			 .pause {
+	         position: absolute;
+	         top: 3em;
+			 right: 1em;
+			 }
+
+  .noteids {
+         position: absolute;
+         top: 1.0em;
+		 right: 1em;
+		 font-size: 1.0 em;
+         color: #68218B;
+       }
+	  .noteids a {
+ 	        color: #68218B;
+	        text-decoration: none;
+		
+	   }		  
+
+
+	   .credits {
+	          position: absolute;
+	          bottom: 0.5em;
+	   	 left: 1em;
+	   	 font-size: 0.6em;
+	          color: #68218B;
+	        }
+	     .credits a {
+	           color: #68218B;
+	           text-decoration: none;
+		
+	      }
+	     .noteids {
+	            position: absolute;
+	            top: 1.0em;
+	   		 right: 1em;
+	   		 font-size: 1.0 em;
+	            color: #68218B;
+	          }
+	   	  .noteids a {
+	    	        color: #68218B;
+	   	        text-decoration: none;
+		
+	   	   }		  
+	  .inverse .credits {
+	          position: absolute;
+	          bottom: 0.5em;
+	   	 left: 1em;
+	   	 font-size: 0.6em;
+	          color: #F92672;
+	        }
+	    .inverse .credits a {
+	           color: #F92672;
+	           text-decoration: none;
+		
+	      }
+	    .inverse .noteids {
+	            position: absolute;
+	            top: 1.0em;
+	   		 right: 1em;
+	   		 font-size: 1.0 em;
+	            color: #F92672;
+	          }
+	   .inverse .noteids a {
+	    	        color: #F92672;
+	   	        text-decoration: none;
+		
+	   	   }	
+		   
+   	    .aside {
+   	         position: absolute;
+   	         bottom: 2.2em;
+			 left: 1em;
+   	   		 margin-left: 1em;
+			 margin-right: 2em;
+   	   		 font-size: 0.8em;
+   	         color: #F92672;
+			 border: 1px dashed #F92672;
+			 padding-left: 10px;
+			 padding-right: 10px;
+		     font-family: 'Yanone Kaffeesatz';
+		     font-weight: normal;
+   	          }
+		   
+	blockquote{
+		line-height: 1.8em;
+		font-style: italic;
+	}   
+
+	.top {
+		padding-top: 3em;
+		
+	}	  
